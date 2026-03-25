@@ -36,7 +36,7 @@ This API acts as a clean proxy layer over the TempMail.lol service. It exposes s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://soulcrack-spoofs-admin@bitbucket.org/soulcrack-spoofs/tempmail-proxy-api.git
+git clone https://github.com/vikrant-project/tempmail-proxy-api
 cd tempmail-proxy-api
 ```
 
